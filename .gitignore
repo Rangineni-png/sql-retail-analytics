@@ -1,0 +1,10 @@
+# ignore local data
+data/
+
+# OS / editor noise
+.DS_Store
+.vscode/
+__pycache__/
+
+# optional: screenshots can be large, keep if you want proof
+# results/screenshots/
